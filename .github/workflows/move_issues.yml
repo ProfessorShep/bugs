@@ -2,18 +2,18 @@ name: Auto Assign to pView App
 
 on:
   issues:
-    types: [opened, labeled]
+    types: [opened]
   pull_request:
-    types: [opened, labeled]
+    types: [opened]
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
-  assign_one_project:
+  assign:
     runs-on: ubuntu-latest
     name: pView App project
     steps:
-    - name: Assign NEW issues and NEW pull requests to project 2
+    - name: Assign issues to app project
       uses: srggrs/assign-one-project-github-action@1.2.0
       if: github.event.action == 'opened'
       with:
