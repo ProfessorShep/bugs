@@ -1,2 +1,2 @@
 # pView Bugs
-This is the bug tracker for pView. Go to the "issues" tab to submit a bug report.
+Click [here](https://github.com/ProfessorShep/bugs/issues) to go to the official pView bug tracker.
