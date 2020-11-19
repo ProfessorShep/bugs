@@ -1,9 +1,9 @@
 ---
-name: Feature request
-about: Suggest an idea for the pView Website
-title: "[WEB FEATURE-REQUEST]"
-labels: enhancement, web
-assignees: K0wang
+name: App Feature request
+about: Suggest an idea for the pView App
+title: "[APP FEATURE-REQUEST]"
+labels: app, enhancement
+assignees: ProfessorShep
 
 ---
 
@@ -23,4 +23,5 @@ A clear and concise description of any alternative solutions or features you've 
 
 
 ## Additional context
+
 Add any other context or screenshots about the feature request here.
