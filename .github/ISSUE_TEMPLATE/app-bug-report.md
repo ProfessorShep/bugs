@@ -1,5 +1,5 @@
 ---
-name: App Bug report
+name: App Bug Report
 about: Report a bug about the pView App
 title: "[APP BUG]"
 labels: app, bug

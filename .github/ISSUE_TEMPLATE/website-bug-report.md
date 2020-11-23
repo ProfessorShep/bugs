@@ -1,5 +1,5 @@
 ---
-name: Website Bug report
+name: Website Bug Report
 about: Report a bug about the pView Website
 title: "[WEB BUG]"
 labels: bug, web
