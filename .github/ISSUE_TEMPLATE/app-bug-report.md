@@ -31,6 +31,7 @@ If applicable, add screenshots to help explain your problem.
 
 
 ## Environment
+_If possible, go to [Help -> About], click **Copy System Info**, and paste your clipboard here_
 
  - OS: [e.g. Windows]
  - Version [e.g. 1.2.3]
