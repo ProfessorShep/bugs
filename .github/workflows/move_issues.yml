@@ -14,7 +14,7 @@ jobs:
     name: pView App project
     steps:
     - name: Assign issues to app project
-      uses: srggrs/assign-one-project-github-action@1.2.0
+      uses: srggrs/assign-one-project-github-action@ee9e04cf29076579440cf7a149b0d5647467dc5b
       if: |
         github.event.action == 'opened' &&
         contains(github.event.issue.labels.*.name, 'app') ||
